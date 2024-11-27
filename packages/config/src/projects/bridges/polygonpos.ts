@@ -28,7 +28,7 @@ export const polygonpos: Bridge = {
       apps: ['https://wallet.polygon.technology'],
       repositories: ['https://github.com/maticnetwork/'],
       socialMedia: [
-        'https://twitter.com/0xPolygon',
+        'https://x.com/0xPolygon',
         'https://forum.polygon.technology/',
         'https://reddit.com/r/0xPolygon/',
         'https://facebook.com/0xPolygon.Technology',
@@ -233,7 +233,7 @@ export const polygonpos: Bridge = {
   knowledgeNuggets: [
     {
       title: 'Is Polygon a side-chain?',
-      url: 'https://twitter.com/bkiepuszewski/status/1380404149888675840',
+      url: 'https://x.com/bkiepuszewski/status/1380404149888675840',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
     },
   ],

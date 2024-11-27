@@ -23,7 +23,7 @@ export const hook: Layer3 = underReviewL3({
       explorers: ['https://hook.calderaexplorer.xyz/'],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/HookProtocol',
+        'https://x.com/HookProtocol',
         'https://discord.com/invite/8Hqw76DHQm',
         'https://blog.hook.xyz/',
         'https://warpcast.com/hookprotocol',

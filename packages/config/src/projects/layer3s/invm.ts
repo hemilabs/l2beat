@@ -19,7 +19,7 @@ export const invm: Layer3 = upcomingL3({
       documentation: [],
       explorers: [],
       repositories: [],
-      socialMedia: ['https://twitter.com/injective'],
+      socialMedia: ['https://x.com/injective'],
     },
   },
 })

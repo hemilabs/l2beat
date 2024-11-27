@@ -80,7 +80,7 @@ export const mantle: Layer2 = opStackL2({
       repositories: ['https://github.com/mantlenetworkio'],
       socialMedia: [
         'https://discord.gg/0xMantle',
-        'https://twitter.com/0xMantle',
+        'https://x.com/0xMantle',
         'https://medium.com/0xmantle',
         'https://t.me/mantlenetwork',
       ],

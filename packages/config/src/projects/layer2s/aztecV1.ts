@@ -56,7 +56,7 @@ export const aztecV1: Layer2 = {
       explorers: ['https://explorer.aztec.network/'],
       repositories: ['https://github.com/AztecProtocol/aztec-2-bug-bounty'],
       socialMedia: [
-        'https://twitter.com/aztecnetwork',
+        'https://x.com/aztecnetwork',
         'https://medium.com/aztec-protocol',
         'https://discord.gg/UDtJr9u',
         'https://plonk.cafe/',

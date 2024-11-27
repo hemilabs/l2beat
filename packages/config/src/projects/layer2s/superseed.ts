@@ -18,7 +18,7 @@ export const superseed: Layer2 = upcomingL2({
       explorers: ['https://superseed.xyz/coming-soon'],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/SuperseedXYZ',
+        'https://x.com/SuperseedXYZ',
         'https://discord.com/invite/vjDDB5S4BN',
       ],
     },

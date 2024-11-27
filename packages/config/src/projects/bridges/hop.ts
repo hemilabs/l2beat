@@ -18,7 +18,7 @@ export const hop: Bridge = {
       websites: ['https://hop.exchange/'],
       repositories: ['https://github.com/hop-protocol'],
       socialMedia: [
-        'https://twitter.com/HopProtocol',
+        'https://x.com/HopProtocol',
         'https://medium.com/hop-protocol',
       ],
     },
@@ -161,12 +161,12 @@ export const hop: Bridge = {
     },
     {
       title: 'How Hop protocol works?',
-      url: 'https://twitter.com/bkiepuszewski/status/1437320613358673922',
+      url: 'https://x.com/bkiepuszewski/status/1437320613358673922',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
     },
     {
       title: 'How HTLC bridge works?',
-      url: 'https://twitter.com/bkiepuszewski/status/1437031523455229964',
+      url: 'https://x.com/bkiepuszewski/status/1437031523455229964',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_04,
     },
   ],

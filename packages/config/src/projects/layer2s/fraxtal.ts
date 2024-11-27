@@ -73,7 +73,7 @@ export const fraxtal: Layer2 = opStackL2({
       repositories: ['https://github.com/FraxFinance'],
       socialMedia: [
         'https://discord.com/invite/UJVtDTFRaA',
-        'https://twitter.com/fraxfinance',
+        'https://x.com/fraxfinance',
         'https://t.me/fraxfinance',
       ],
     },

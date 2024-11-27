@@ -105,7 +105,7 @@ export const zkfair: Layer2 = {
       documentation: ['https://docs.zkfair.io/'],
       explorers: ['https://scan.zkfair.io/'],
       repositories: ['https://github.com/ZKFair'],
-      socialMedia: ['https://twitter.com/ZKFCommunity'],
+      socialMedia: ['https://x.com/ZKFCommunity'],
     },
     activityDataSource: 'Blockchain RPC',
   },
@@ -363,7 +363,7 @@ export const zkfair: Layer2 = {
   milestones: [
     {
       name: 'ZKFair Mainnet is Live',
-      link: 'https://twitter.com/ZKFCommunity/status/1737307444181869017',
+      link: 'https://x.com/ZKFCommunity/status/1737307444181869017',
       date: '2023-12-20T00:00:00Z',
       description: 'ZKFair launched.',
       type: 'general',

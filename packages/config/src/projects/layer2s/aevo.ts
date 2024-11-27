@@ -28,7 +28,7 @@ export const aevo: Layer2 = opStackL2({
       documentation: ['https://docs.aevo.xyz/'],
       explorers: ['https://explorer.aevo.xyz/'],
       repositories: ['https://github.com/aevoxyz'],
-      socialMedia: ['https://twitter.com/aevoxyz'],
+      socialMedia: ['https://x.com/aevoxyz'],
     },
     activityDataSource: 'Blockchain RPC',
   },
@@ -70,7 +70,7 @@ export const aevo: Layer2 = opStackL2({
     },
     {
       name: 'Aevo switches to Celestia',
-      link: 'https://twitter.com/aevoxyz/status/1750013642278633510',
+      link: 'https://x.com/aevoxyz/status/1750013642278633510',
       date: '2024-01-16T00:00:00.00Z',
       description: 'Aevo starts using Celestia for data availability.',
       type: 'general',

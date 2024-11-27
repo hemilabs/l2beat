@@ -43,7 +43,7 @@ export const honeypot: Layer2 = {
       explorers: ['https://cartesiscan.io/', 'https://explorer.cartesi.io/'],
       repositories: ['https://github.com/cartesi/honeypot'],
       socialMedia: [
-        'https://twitter.com/cartesiproject',
+        'https://x.com/cartesiproject',
         'https://discord.gg/G2tCH5KkcM',
         'https://cartesi.io/blog/',
         'https://reddit.com/r/cartesi/',

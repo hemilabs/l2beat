@@ -20,7 +20,7 @@ export const connext: Bridge = {
       apps: ['https://bridge.connext.network/'],
       explorers: ['https://connextscan.io/'],
       socialMedia: [
-        'https://twitter.com/connextnetwork',
+        'https://x.com/connextnetwork',
         'https://discord.gg/pm4TPr4w5g',
         'https://blog.connext.network/',
       ],

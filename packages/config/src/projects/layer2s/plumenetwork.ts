@@ -18,7 +18,7 @@ export const plumenetwork: Layer2 = upcomingL2({
       explorers: [],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/plumenetwork',
+        'https://x.com/plumenetwork',
         'https://discord.gg/plume',
         'https://t.me/plumenetwork_community',
       ],

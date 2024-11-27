@@ -18,7 +18,7 @@ export const zentachain: Layer2 = upcomingL2({
       explorers: ['https://explorer-sepolia.zentachain.io/'],
       repositories: ['https://github.com/ZentaChain'],
       socialMedia: [
-        'https://twitter.com/zentachain',
+        'https://x.com/zentachain',
         'https://discord.com/invite/TR5bv3e8Ny',
         'https://zentachain.blog/',
         'https://t.me/ZentachainOfficialChat',

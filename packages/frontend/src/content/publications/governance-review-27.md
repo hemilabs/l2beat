@@ -62,7 +62,7 @@ On Arbitrum, the Security Council elections are coming; the Foundation requested
 
 ### **Security Council Registrations Open**
 
-Arbitrum Foundation [announced on Twitter](https://twitter.com/arbitrum/status/1835317702027616357) that registrations for the upcoming Security Council elections have started and will continue for six days. Then the nominee selection process will commence on September 22nd, and finally, the elections will start on October 13th. The whole process will happen on [Tally](https://www.tally.xyz/gov/arbitrum/council/security-council/election/2).
+Arbitrum Foundation [announced on Twitter](https://x.com/arbitrum/status/1835317702027616357) that registrations for the upcoming Security Council elections have started and will continue for six days. Then the nominee selection process will commence on September 22nd, and finally, the elections will start on October 13th. The whole process will happen on [Tally](https://www.tally.xyz/gov/arbitrum/council/security-council/election/2).
 
 
 ### **[Non-Constitutional] Funds to Bolster Foundation’s Strategic Partnerships Budget**

@@ -24,7 +24,7 @@ export const playblock: Layer3 = orbitStackL3({
       documentation: [],
       explorers: ['https://explorer.playblock.io/'],
       repositories: ['https://github.com/playnance-games/PlayBlock'],
-      socialMedia: ['https://twitter.com/Playnancetech'],
+      socialMedia: ['https://x.com/Playnancetech'],
     },
     activityDataSource: 'Blockchain RPC',
   },

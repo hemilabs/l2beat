@@ -34,7 +34,7 @@ export const gluon: Layer2 = {
       explorers: ['https://gluon.leverj.io/'],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/Leverj_io',
+        'https://x.com/Leverj_io',
         'https://t.me/leverj',
         'https://discord.gg/xpsjfwn',
         'https://blog.leverj.io/',

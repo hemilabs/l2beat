@@ -67,7 +67,7 @@ export const loopring: Layer2 = {
       socialMedia: [
         'https://loopring.org/#/blog',
         'https://medium.com/loopring-protocol',
-        'https://twitter.com/loopringorg',
+        'https://x.com/loopringorg',
         'https://discord.gg/loopring',
         'https://youtube.com/c/loopring',
         'https://weibo.com/loopringfoundation',

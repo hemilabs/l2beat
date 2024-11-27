@@ -21,7 +21,7 @@ export const eclipse: Bridge = {
       explorers: ['https://explorer.eclipse.xyz/'],
       repositories: ['https://github.com/Eclipse-Laboratories-Inc'],
       socialMedia: [
-        'https://twitter.com/eclipsefnd',
+        'https://x.com/eclipsefnd',
         'https://discord.gg/eclipse-labs',
         'https://mirror.xyz/eclipsemainnet.eth',
       ],

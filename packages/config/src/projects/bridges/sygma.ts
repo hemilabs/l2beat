@@ -32,7 +32,7 @@ export const sygma: Bridge = {
       repositories: ['https://github.com/sygmaprotocol'],
       socialMedia: [
         'https://discord.gg/Qdf6GyNB5J',
-        'https://twitter.com/buildwithsygma',
+        'https://x.com/buildwithsygma',
         `https://t.me/buildwithsygma`,
       ],
       apps: [

@@ -84,7 +84,7 @@ export const astarzkevm: Layer2 = polygonCDKStack({
       explorers: ['https://astar-zkevm.explorer.startale.com/'],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/AstarNetwork',
+        'https://x.com/AstarNetwork',
         'https://discord.com/invite/astarnetwork',
         'https://youtube.com/@AstarNetwork',
         'https://t.me/PlasmOfficial',

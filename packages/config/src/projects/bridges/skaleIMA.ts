@@ -17,7 +17,7 @@ export const skaleIMA: Bridge = {
       websites: ['https://skale.space'],
       apps: ['https://bridge.skale.network'],
       socialMedia: [
-        'https://twitter.com/SkaleNetwork',
+        'https://x.com/SkaleNetwork',
         'https://t.me/skaleofficial',
         'https://youtube.com/channel/UCpUk0eMmD00C7RXLT0g8SuA',
         'https://reddit.com/r/skalenetwork/',

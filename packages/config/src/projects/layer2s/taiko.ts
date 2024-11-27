@@ -113,7 +113,7 @@ export const taiko: Layer2 = {
       explorers: ['https://taikoscan.io', 'https://taikoscan.network/'],
       repositories: ['https://github.com/taikoxyz'],
       socialMedia: [
-        'https://twitter.com/taikoxyz',
+        'https://x.com/taikoxyz',
         'https://discord.gg/taikoxyz',
         'https://taiko.mirror.xyz',
       ],

@@ -46,8 +46,8 @@ export const ronin: Bridge = {
       explorers: ['https://explorer.roninchain.com/'],
       socialMedia: [
         'https://discord.gg/axie',
-        'https://twitter.com/ronin_network',
-        'https://twitter.com/SkyMavisHQ',
+        'https://x.com/ronin_network',
+        'https://x.com/SkyMavisHQ',
       ],
       // Repository is private. Repo url fetched from audit.
       // repositories: ['https://github.com/axieinfinity/ronin-smart-contracts-v2']

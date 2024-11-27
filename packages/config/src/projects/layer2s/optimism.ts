@@ -172,7 +172,7 @@ export const optimism: Layer2 = {
       repositories: ['https://github.com/ethereum-optimism/optimism'],
       socialMedia: [
         'https://optimism.mirror.xyz/',
-        'https://twitter.com/OPLabsPBC',
+        'https://x.com/OPLabsPBC',
         'https://youtube.com/playlist?list=PLX_rXoLYCf5HqTWygUfoMfzRirGz5lekH',
         'https://twitch.tv/optimismpbc',
       ],
@@ -797,7 +797,7 @@ export const optimism: Layer2 = {
     },
     {
       name: 'OP Mainnet starts using blobs',
-      link: 'https://twitter.com/Optimism/status/1768235284494450922',
+      link: 'https://x.com/Optimism/status/1768235284494450922',
       date: '2024-03-14T00:00:00Z',
       description: 'OP Mainnet starts publishing data to blobs.',
       type: 'general',
@@ -848,7 +848,7 @@ export const optimism: Layer2 = {
     },
     {
       name: 'Optimism removes OVM fraud proofs',
-      link: 'https://twitter.com/optimismfnd/status/1458953238867165192?s=21&t=cQ0NPREYt-u1rP7OiPFKUg',
+      link: 'https://x.com/optimismfnd/status/1458953238867165192?s=21&t=cQ0NPREYt-u1rP7OiPFKUg',
       date: '2021-11-12T00:00:00Z',
       description:
         'Network upgrade to OVM 2.0 and removal of fraud-proof system.',

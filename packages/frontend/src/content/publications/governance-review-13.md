@@ -109,15 +109,15 @@ The Grant Allocator track, which relies on specialized entities facilitating the
 
 The proposed members are:
 
-[David Gogel](https://twitter.com/dgogel) from dYdX Foundation
+[David Gogel](https://x.com/dgogel) from dYdX Foundation
 
-[Peter Kim](https://twitter.com/petejkim), the creator of Coinbase Wallet
+[Peter Kim](https://x.com/petejkim), the creator of Coinbase Wallet
 
-[Maggie Love](https://twitter.com/maggielove_) from SheFi
+[Maggie Love](https://x.com/maggielove_) from SheFi
 
-[Ajit Tripathi](https://twitter.com/chainyoda) from Hadron Founders Club
+[Ajit Tripathi](https://x.com/chainyoda) from Hadron Founders Club
 
-[Roc Zacharias](https://twitter.com/CryptoRocky) from Quickswap
+[Roc Zacharias](https://x.com/CryptoRocky) from Quickswap
 
 **Discuss with L2BEAT**
 

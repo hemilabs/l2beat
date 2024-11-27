@@ -17,7 +17,7 @@ export function UpcomingDisclaimer() {
 
           <p className="leading-snug">
             Follow us on{' '}
-            <CustomLink href="https://twitter.com/l2beat">Twitter</CustomLink>{' '}
+            <CustomLink href="https://x.com/l2beat">Twitter</CustomLink>{' '}
             to stay updated on the latest news regarding this and other
             projects.
           </p>

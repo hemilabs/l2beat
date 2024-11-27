@@ -19,7 +19,7 @@ export const capx: Layer2 = upcomingL2({
       repositories: [],
       socialMedia: [
         'https://discord.com/invite/HAGATNqT8J',
-        'https://twitter.com/capxfi',
+        'https://x.com/capxfi',
         'https://t.me/capxfi',
       ],
     },

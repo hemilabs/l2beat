@@ -33,7 +33,7 @@ export const pulseChain: Bridge = {
         'https://bridge.pulsechain.com/#/bridge',
       ],
       socialMedia: [
-        'https://twitter.com/PulseChainCom',
+        'https://x.com/PulseChainCom',
         'https://t.me/PulseChainCom',
       ],
     },

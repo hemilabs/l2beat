@@ -26,7 +26,7 @@ export const beamerbridgev2: Bridge = {
       apps: ['https://app.beamerbridge.com'],
       repositories: ['https://github.com/beamer-bridge/beamer'],
       socialMedia: [
-        'https://twitter.com/BeamerBridge',
+        'https://x.com/BeamerBridge',
         'https://discord.gg/beamerbridge',
         'https://medium.com/@BeamerBridge',
       ],

@@ -18,7 +18,7 @@ export const polygonpos2: Layer2 = upcomingL2({
       explorers: ['https://polygonscan.com/'],
       repositories: ['https://github.com/maticnetwork/'],
       socialMedia: [
-        'https://twitter.com/0xPolygonLabs',
+        'https://x.com/0xPolygonLabs',
         'https://discord.gg/0xPolygon',
         'https://t.me/polygonofficial',
       ],

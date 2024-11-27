@@ -28,7 +28,7 @@ export const layer2finance: Layer2 = {
       socialMedia: [
         'https://discord.gg/uGx4fjQ',
         'https://t.me/celernetwork',
-        'https://twitter.com/CelerNetwork',
+        'https://x.com/CelerNetwork',
       ],
     },
   },

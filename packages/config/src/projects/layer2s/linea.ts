@@ -98,7 +98,7 @@ export const linea: Layer2 = {
         'https://github.com/Consensys?q=linea&type=all&language=&sort=stargazers',
       ],
       socialMedia: [
-        'https://twitter.com/LineaBuild',
+        'https://x.com/LineaBuild',
         'https://discord.gg/linea',
         'https://linea.mirror.xyz/',
         'https://community.linea.build/',
@@ -574,7 +574,7 @@ export const linea: Layer2 = {
   milestones: [
     {
       name: 'Linea starts using blobs',
-      link: 'https://twitter.com/LineaBuild/status/1772711269159567483',
+      link: 'https://x.com/LineaBuild/status/1772711269159567483',
       date: '2024-03-26T00:00:00Z',
       description: 'Linea starts publishing data to blobs.',
       type: 'general',

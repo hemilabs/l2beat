@@ -45,7 +45,7 @@ export const HOMEPAGE_MILESTONES: Milestone[] = [
   {
     name: 'First Optimistic Rollup (for payments)',
     date: '2020-12-31T00:00:00Z',
-    link: 'https://twitter.com/fuellabs_/status/1344707195250896899',
+    link: 'https://x.com/fuellabs_/status/1344707195250896899',
     description:
       'Fuel v1 is live, bringing first trustless Optimistic Rollup for payments.',
     type: 'general',

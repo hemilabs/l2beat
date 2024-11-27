@@ -20,7 +20,7 @@ export const thanos: Layer2 = upcomingL2({
       socialMedia: [
         'https://t.me/tokamak_network',
         'https://discord.gg/FuwksZQQ7r',
-        'https://twitter.com/Tokamak_Network',
+        'https://x.com/Tokamak_Network',
         'https://medium.com/tokamak-network',
       ],
     },

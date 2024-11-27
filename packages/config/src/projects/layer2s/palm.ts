@@ -17,7 +17,7 @@ export const palm: Layer2 = upcomingL2({
       documentation: ['https://docs.palm.io/'],
       explorers: ['https://explorer.palm.io/'],
       repositories: [],
-      socialMedia: ['https://twitter.com/palmnetwork3'],
+      socialMedia: ['https://x.com/palmnetwork3'],
     },
   },
 })

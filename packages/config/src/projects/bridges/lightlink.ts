@@ -86,7 +86,7 @@ export const lightlink: Bridge = {
       explorers: ['https://phoenix.lightlink.io'],
       repositories: ['https://github.com/lightlink-network'],
       socialMedia: [
-        'https://twitter.com/lightlinkchain',
+        'https://twittxer.com/lightlinkchain',
         'https://discord.com/invite/lightlinkchain',
         'https://t.me/lightlinkll',
         'https://linkedin.com/company/lightlinkchain',

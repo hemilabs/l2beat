@@ -35,7 +35,7 @@ export const orderly: Layer2 = opStackL2({
       explorers: ['https://explorer.orderly.network/'],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/OrderlyNetwork',
+        'https://x.com/OrderlyNetwork',
         'https://discord.gg/orderlynetwork',
         'https://medium.com/@orderlynetwork',
         'https://t.me/OrderlyNetworkAnnouncements',
@@ -127,7 +127,7 @@ export const orderly: Layer2 = opStackL2({
   milestones: [
     {
       name: 'Orderly Network Mainnet Launch',
-      link: 'https://twitter.com/OrderlyNetwork/status/1749419001913237526',
+      link: 'https://x.com/OrderlyNetwork/status/1749419001913237526',
       date: '2024-01-22T00:00:00Z',
       description: 'Orderly Network is live on mainnet.',
       type: 'general',

@@ -23,7 +23,7 @@ export const stargate: Bridge = {
         'https://discord.com/invite/TMWHAfS',
         'https://t.me/joinchat/LEM0ELklmO1kODdh',
         'https://medium.com/stargate-official',
-        'https://twitter.com/StargateFinance',
+        'https://x.com/StargateFinance',
       ],
     },
     description:
@@ -235,7 +235,7 @@ export const stargate: Bridge = {
     },
     {
       title: 'StarGate Bridge architecture',
-      url: 'https://twitter.com/bkiepuszewski/status/1518568490147450880',
+      url: 'https://x.com/bkiepuszewski/status/1518568490147450880',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
     },
   ],

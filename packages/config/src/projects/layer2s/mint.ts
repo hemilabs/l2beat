@@ -22,7 +22,7 @@ export const mint: Layer2 = opStackL2({
       explorers: ['https://explorer.mintchain.io'],
       repositories: ['https://github.com/Mint-Blockchain'],
       socialMedia: [
-        'https://twitter.com/Mint_Blockchain',
+        'https://x.com/Mint_Blockchain',
         'https://discord.gg/mint-blockchain',
         'https://t.me/MintBlockchain',
         'https://mirror.xyz/mintchain.eth',

@@ -35,7 +35,7 @@ export const blast: Layer2 = opStackL2({
       documentation: ['https://docs.blast.io/about-blast'],
       explorers: ['https://blastscan.io', 'https://blastexplorer.io'],
       repositories: [],
-      socialMedia: ['https://twitter.com/blast'],
+      socialMedia: ['https://x.com/blast'],
     },
     activityDataSource: 'Blockchain RPC',
     tvlWarning: {

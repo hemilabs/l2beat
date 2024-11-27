@@ -73,7 +73,7 @@ export const termstructure: Layer2 = {
       explorers: ['https://explorer.ts.finance/'],
       repositories: ['https://github.com/term-structure/'],
       socialMedia: [
-        'https://twitter.com/TermStructLabs',
+        'https://x.com/TermStructLabs',
         'https://discord.gg/VnyTqGBSzK',
         'https://t.me/termstructure',
         'https://youtube.com/@termstructurelabs',

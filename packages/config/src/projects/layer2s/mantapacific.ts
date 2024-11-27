@@ -31,7 +31,7 @@ export const mantapacific: Layer2 = opStackL2({
       repositories: ['https://github.com/Manta-Network'],
       socialMedia: [
         'https://discord.gg/mantanetwork',
-        'https://twitter.com/MantaNetwork',
+        'https://x.com/MantaNetwork',
         'https://medium.com/@mantanetwork',
       ],
     },

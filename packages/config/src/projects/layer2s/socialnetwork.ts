@@ -17,7 +17,7 @@ export const socialnetwork: Layer2 = upcomingL2({
       documentation: [],
       explorers: [],
       repositories: [],
-      socialMedia: ['https://twitter.com/socialnetworkL2'],
+      socialMedia: ['https://x.com/socialnetworkL2'],
     },
   },
 })

@@ -17,7 +17,7 @@ export const ola: Layer2 = upcomingL2({
       explorers: [],
       repositories: ['https://github.com/Sin7Y'],
       socialMedia: [
-        'https://twitter.com/ola_zkzkvm',
+        'https://x.com/ola_zkzkvm',
         'https://discord.com/invite/vDFy7YEG6j',
         'https://linkedin.com/company/olavm-technology-ltd/',
         'https://hackmd.io/@sin7y',

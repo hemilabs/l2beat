@@ -52,7 +52,7 @@ export const omni: Bridge = {
         'https://xdai.tokenview.io/',
       ],
       socialMedia: [
-        'https://twitter.com/gnosischain',
+        'https://x.com/gnosischain',
         'https://discord.gg/VQb3WzsywU',
         'https://t.me/gnosischain',
       ],

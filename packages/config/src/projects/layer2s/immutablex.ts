@@ -79,7 +79,7 @@ export const immutablex: Layer2 = {
       repositories: ['https://github.com/starkware-libs/starkex-contracts'],
       socialMedia: [
         'https://medium.com/@immutablex',
-        'https://twitter.com/Immutable',
+        'https://x.com/Immutable',
       ],
     },
     activityDataSource: 'Closed API',
@@ -187,7 +187,7 @@ export const immutablex: Layer2 = {
   milestones: [
     {
       name: 'Trading is live on Immutable X Marketplace',
-      link: 'https://twitter.com/immutable/status/1380269810525872131?s=21&t=kyMdE6ORI9f76e8aqizlpg',
+      link: 'https://x.com/immutable/status/1380269810525872131?s=21&t=kyMdE6ORI9f76e8aqizlpg',
       date: '2021-04-08T00:00:00Z',
       description:
         'Immutable has launched the first phase of its Layer 2 scaling protocol.',

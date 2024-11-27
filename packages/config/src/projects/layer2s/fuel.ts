@@ -17,7 +17,7 @@ export const fuel: Layer2 = upcomingL2({
       explorers: ['https://fuellabs.github.io/block-explorer-v2/'],
       repositories: ['https://github.com/FuelLabs/'],
       socialMedia: [
-        'https://twitter.com/fuel_network',
+        'https://x.com/fuel_network',
         'https://discord.com/invite/fuelnetwork',
         'https://forum.fuel.network/',
       ],

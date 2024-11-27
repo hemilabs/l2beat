@@ -24,7 +24,7 @@ export const polynetwork: Bridge = {
       websites: ['https://bridge.poly.network/', 'https://poly.network/'],
       apps: ['https://bridge.poly.network/'],
       socialMedia: [
-        'https://twitter.com/PolyNetwork2',
+        'https://x.com/PolyNetwork2',
         'https://polynetwork.medium.com/',
         'https://youtube.com/channel/UC4vFRyVgvK7RnlkkLDmp23w',
         'https://discord.gg/y6MuEnq',

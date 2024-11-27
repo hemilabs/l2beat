@@ -38,7 +38,7 @@ export const redstone: Layer2 = opStackL2({
       explorers: ['https://explorer.redstone.xyz/'],
       repositories: ['https://github.com/latticexyz/redstone'],
       socialMedia: [
-        'https://twitter.com/redstonexyz',
+        'https://x.com/redstonexyz',
         'https://discord.com/invite/latticexyz',
       ],
     },

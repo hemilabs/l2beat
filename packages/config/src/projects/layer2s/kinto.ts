@@ -29,7 +29,7 @@ export const kinto: Layer2 = orbitStackL2({
       ],
       repositories: ['https://github.com/kintoxyz'],
       socialMedia: [
-        'https://twitter.com/kintoxyz',
+        'https://x.com/kintoxyz',
         'https://discord.com/invite/kinto',
         'https://mirror.xyz/kintoxyz.eth',
         'https://medium.com/mamori-finance',

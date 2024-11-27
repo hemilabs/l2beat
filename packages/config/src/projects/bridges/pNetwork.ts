@@ -25,7 +25,7 @@ export const pNetwork: Bridge = {
       socialMedia: [
         'https://t.me/pNetworkDefi',
         'https://provablethings.medium.com/',
-        'https://twitter.com/pNetworkDeFi',
+        'https://x.com/pNetworkDeFi',
       ],
     },
     description:

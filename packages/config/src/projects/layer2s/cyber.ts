@@ -48,7 +48,7 @@ export const cyber: Layer2 = opStackL2({
       explorers: ['https://cyberscan.co/', 'https://7560.routescan.io/'],
       repositories: ['https://github.com/cyberconnecthq'],
       socialMedia: [
-        'https://twitter.com/cyberconnecthq',
+        'https://x.com/cyberconnecthq',
         'https://discord.com/invite/cUc8VRGmPs',
         'https://cyber.co/blog',
       ],

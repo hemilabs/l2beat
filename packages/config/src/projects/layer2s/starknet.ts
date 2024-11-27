@@ -259,7 +259,7 @@ export const starknet: Layer2 = {
       repositories: ['https://github.com/starkware-libs'],
       socialMedia: [
         'https://discord.com/invite/qypnmzkhbc',
-        'https://twitter.com/StarkWareLtd',
+        'https://x.com/StarkWareLtd',
         'https://medium.com/starkware',
         'https://starkware.co/',
         'https://youtube.com/channel/UCnDWguR8mE2oDBsjhQkgbvg',
@@ -1081,7 +1081,7 @@ At present, the StarkNet Foundation hosts voting for STRK token holders (or thei
   milestones: [
     {
       name: 'Starknet starts using blobs',
-      link: 'https://twitter.com/Starknet/status/1767915153700290839',
+      link: 'https://x.com/Starknet/status/1767915153700290839',
       date: '2024-03-13T00:00:00Z',
       description: 'Starknet starts publishing data to blobs.',
       type: 'general',

@@ -17,7 +17,7 @@ export const aztecV2: Layer2 = upcomingL2({
       explorers: [],
       repositories: ['https://github.com/AztecProtocol/aztec-packages'],
       socialMedia: [
-        'https://twitter.com/aztecnetwork',
+        'https://x.com/aztecnetwork',
         'https://medium.com/aztec-protocol',
         'https://t.me/aztecprotocol',
       ],

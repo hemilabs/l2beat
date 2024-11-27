@@ -17,7 +17,7 @@ export const arcology: Layer2 = upcomingL2({
       explorers: [],
       repositories: ['https://github.com/arcology-network'],
       socialMedia: [
-        'https://twitter.com/ArcologyN',
+        'https://x.com/ArcologyN',
         'https://chatgpt.com/g/g-lkeB0ZG52-solidity-concurrent-programming-gpt',
       ],
     },

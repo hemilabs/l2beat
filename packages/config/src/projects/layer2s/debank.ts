@@ -18,7 +18,7 @@ export const debank: Layer2 = upcomingL2({
       explorers: ['https://explorer.testnet.debank.com/'],
       repositories: ['https://github.com/DeBankDeFi/DeBankChain'],
       socialMedia: [
-        'https://twitter.com/DebankDeFi',
+        'https://x.com/DebankDeFi',
         'https://medium.com/debank',
         'https://debank.com/official/DeBank',
       ],

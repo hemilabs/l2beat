@@ -44,7 +44,7 @@ export const hermez: Layer2 = {
         'https://blog.hermez.io/',
         'https://t.me/PolygonHermez',
         'https://discord.gg/AczuUXDA2N',
-        'https://twitter.com/0xPolygonZK',
+        'https://x.com/0xPolygonZK',
       ],
     },
   },

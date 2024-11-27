@@ -76,7 +76,7 @@ export const rss3: Layer2 = opStackL2({
       explorers: ['https://explorer.rss3.io', 'https://scan.rss3.io'],
       repositories: ['https://github.com/rss3-network'],
       socialMedia: [
-        'https://twitter.com/rss3_',
+        'https://x.com/rss3_',
         'https://discord.com/invite/rss3-network',
         'https://t.me/rss3_en',
       ],

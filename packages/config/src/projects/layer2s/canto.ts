@@ -18,7 +18,7 @@ export const canto: Layer2 = upcomingL2({
       explorers: [],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/CantoPublic',
+        'https://x.com/CantoPublic',
         'https://discord.gg/canto',
       ],
     },

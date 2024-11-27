@@ -20,7 +20,7 @@ export const synapse: Bridge = {
       repositories: ['https://github.com/synapsecns'],
       explorers: ['https://analytics.synapseprotocol.com/'],
       socialMedia: [
-        'https://twitter.com/SynapseProtocol',
+        'https://x.com/SynapseProtocol',
         'https://discord.gg/synapseprotocol',
         'https://forum.synapseprotocol.com/',
         'https://synapse.mirror.xyz/',

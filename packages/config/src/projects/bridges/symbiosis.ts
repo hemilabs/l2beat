@@ -25,7 +25,7 @@ export const symbiosis: Bridge = {
       socialMedia: [
         'https://t.me/symbiosis_finance',
         'https://medium.com/@symbiosis_fi',
-        'https://twitter.com/symbiosis_fi',
+        'https://x.com/symbiosis_fi',
       ],
     },
   },

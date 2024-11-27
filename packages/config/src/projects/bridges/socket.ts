@@ -23,7 +23,7 @@ export const socket: Bridge = {
         'https://github.com/SocketDotTech/socket-plugs/blob/main/contracts/superbridge',
       ],
       documentation: ['https://developer.socket.tech/Learn/protocol-design'],
-      socialMedia: ['https://twitter.com/SocketDotTech'],
+      socialMedia: ['https://x.com/SocketDotTech'],
     },
     description:
       'This page gathers Socket vaults built on top of Socket Data Layer cross chain messaging protocol.',

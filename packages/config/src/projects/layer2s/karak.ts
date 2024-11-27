@@ -32,7 +32,7 @@ export const karak: Layer2 = opStackL2({
       explorers: ['https://explorer.karak.network/'],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/Karak_Network',
+        'https://x.com/Karak_Network',
         'https://t.me/Karak_Network',
       ],
     },

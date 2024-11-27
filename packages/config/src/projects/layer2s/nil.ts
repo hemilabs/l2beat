@@ -16,7 +16,7 @@ export const nil: Layer2 = upcomingL2({
       documentation: ['https://docs.nil.foundation/nil/'],
       explorers: [],
       repositories: [],
-      socialMedia: ['https://twitter.com/nil_foundation'],
+      socialMedia: ['https://x.com/nil_foundation'],
     },
   },
 })

@@ -19,7 +19,7 @@ export const meliora: Layer3 = upcomingL3({
       documentation: [],
       explorers: [],
       repositories: [],
-      socialMedia: ['https://twitter.com/meliorafnd'],
+      socialMedia: ['https://x.com/meliorafnd'],
     },
   },
 })

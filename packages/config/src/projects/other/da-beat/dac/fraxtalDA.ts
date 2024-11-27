@@ -21,7 +21,7 @@ export const fraxtalDA: DaLayer = {
       repositories: ['https://github.com/FraxFinance'],
       socialMedia: [
         'https://discord.com/invite/UJVtDTFRaA',
-        'https://twitter.com/fraxfinance',
+        'https://x.com/fraxfinance',
         'https://t.me/fraxfinance',
       ],
     },

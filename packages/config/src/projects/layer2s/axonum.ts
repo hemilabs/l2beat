@@ -18,7 +18,7 @@ export const axonum: Layer2 = upcomingL2({
       explorers: ['https://sepolia-explorer.axonum.io'],
       repositories: ['https://github.com/axonum'],
       socialMedia: [
-        'https://twitter.com/axonum_io',
+        'https://x.com/axonum_io',
         'https://mirror.xyz/brainof.eth',
       ],
     },

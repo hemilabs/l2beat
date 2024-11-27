@@ -36,7 +36,7 @@ export const acrossV3: Bridge = {
       repositories: ['https://github.com/across-protocol/contracts-v2'],
       documentation: ['https://docs.across.to/'],
       socialMedia: [
-        'https://twitter.com/AcrossProtocol',
+        'https://x.com/AcrossProtocol',
         'https://discord.gg/across',
         'https://medium.com/across-protocol',
         'https://forum.across.to/',

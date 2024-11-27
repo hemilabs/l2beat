@@ -83,7 +83,7 @@ export const rhinofi: Layer2 = {
       ],
       socialMedia: [
         'https://rhino.fi/blog',
-        'https://twitter.com/rhinofi',
+        'https://x.com/rhinofi',
         'https://linkedin.com/company/rhinofi/',
         'https://youtube.com/c/rhinofi',
         'https://discord.com/invite/26sXx2KAhy',

@@ -25,7 +25,7 @@ export const rari: Layer3 = orbitStackL3({
       documentation: ['https://rari.docs.caldera.dev/'],
       explorers: ['https://mainnet.explorer.rarichain.org/'],
       repositories: ['https://github.com/OffchainLabs/nitro'],
-      socialMedia: ['https://twitter.com/RariChain'],
+      socialMedia: ['https://x.com/RariChain'],
     },
     activityDataSource: 'Blockchain RPC',
   },

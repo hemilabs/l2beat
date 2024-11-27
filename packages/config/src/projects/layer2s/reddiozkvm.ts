@@ -25,7 +25,7 @@ export const reddiozkvm: Layer2 = {
       explorers: [],
       repositories: ['https://github.com/reddio-com/starknet-appchain-utils'],
       socialMedia: [
-        'https://twitter.com/reddio_com',
+        'https://x.com/reddio_com',
         'https://facebook.com/reddiocom',
         'https://linkedin.com/company/reddio',
       ],

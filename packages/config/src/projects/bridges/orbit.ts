@@ -29,7 +29,7 @@ export const orbit: Bridge = {
       ],
       apps: ['https://bridge.orbitchain.io/'],
       socialMedia: [
-        'https://twitter.com/Orbit_Chain',
+        'https://x.com/Orbit_Chain',
         'https://t.me/OrbitChainGlobal',
         'https://discord.gg/orbit-chain',
       ],

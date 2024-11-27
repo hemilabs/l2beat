@@ -86,7 +86,7 @@ export const scroll: Layer2 = {
       ],
       socialMedia: [
         'https://discord.gg/scroll',
-        'https://twitter.com/Scroll_ZKP',
+        'https://x.com/Scroll_ZKP',
         'https://youtube.com/@Scroll_ZKP',
       ],
       rollupCodes: 'https://rollup.codes/scroll',

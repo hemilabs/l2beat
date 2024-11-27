@@ -34,7 +34,7 @@ export const lzOmnichain: Bridge = {
       documentation: [
         'https://layerzero.gitbook.io/docs/technical-reference/mainnet/supported-chain-ids',
       ],
-      socialMedia: ['https://twitter.com/LayerZero_Labs'],
+      socialMedia: ['https://x.com/LayerZero_Labs'],
     },
     description:
       'This page gathers Omnichain Tokens built on top of LayerZero AMB protocol that have a market cap over 100k USD.',

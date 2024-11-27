@@ -37,7 +37,7 @@ export const redstoneDA: DaLayer = {
       explorers: ['https://explorer.redstone.xyz/'],
       repositories: ['https://github.com/latticexyz/redstone'],
       socialMedia: [
-        'https://twitter.com/redstonexyz',
+        'https://x.com/redstonexyz',
         'https://discord.com/invite/latticexyz',
       ],
     },

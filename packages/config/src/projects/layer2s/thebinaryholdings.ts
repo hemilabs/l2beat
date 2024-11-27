@@ -25,7 +25,7 @@ export const thebinaryholdings: Layer2 = opStackL2({
       explorers: ['https://explorer.thebinaryholdings.com'],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/thebinaryhldgs',
+        'https://x.com/thebinaryhldgs',
         'https://t.me/tbhofficialchat',
         'https://discord.gg/wCXJmTBGr2',
       ],

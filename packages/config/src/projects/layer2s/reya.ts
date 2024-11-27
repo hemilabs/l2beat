@@ -26,7 +26,7 @@ export const reya: Layer2 = orbitStackL2({
       explorers: ['https://explorer.reya.network/'],
       repositories: ['https://github.com/Reya-Labs'],
       socialMedia: [
-        'https://twitter.com/Reya_xyz',
+        'https://x.com/Reya_xyz',
         'https://discord.gg/reyaxyz',
         'https://medium.com/reya-labs',
       ],

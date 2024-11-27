@@ -44,7 +44,7 @@ export const base: Layer2 = opStackL2({
       ],
       repositories: ['https://github.com/base-org'],
       socialMedia: [
-        'https://twitter.com/BuildOnBase',
+        'https://x.com/BuildOnBase',
         'https://discord.gg/buildonbase',
         'https://base.mirror.xyz/',
       ],
@@ -76,7 +76,7 @@ export const base: Layer2 = opStackL2({
     },
     {
       name: 'Base starts using blobs',
-      link: 'https://twitter.com/Optimism/status/1768235284494450922',
+      link: 'https://x.com/Optimism/status/1768235284494450922',
       date: '2024-03-14T00:00:00Z',
       description: 'Base starts publishing data to blobs.',
       type: 'general',

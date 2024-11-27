@@ -27,7 +27,7 @@ export const parallel: Layer2 = orbitStackL2({
       ],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/ParallelFi',
+        'https://x.com/ParallelFi',
         'https://discord.gg/rdjVz8zavF',
         'https://t.me/parallelfi_community',
       ],
@@ -166,7 +166,7 @@ export const parallel: Layer2 = orbitStackL2({
     },
     {
       name: 'Parallel Mainnet closed launch',
-      link: 'https://twitter.com/ParallelFi/status/1743048283684237574',
+      link: 'https://x.com/ParallelFi/status/1743048283684237574',
       date: '2024-01-05T00:00:00Z',
       description: 'Parallel Mainnet is open for developers.',
       type: 'general',
