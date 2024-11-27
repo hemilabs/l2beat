@@ -19,7 +19,7 @@ export const intmax: Layer2 = upcomingL2({
       ],
       explorers: [],
       repositories: ['https://github.com/InternetMaximalism'],
-      socialMedia: ['https://twitter.com/intmaxIO'],
+      socialMedia: ['https://x.com/intmaxIO'],
     },
   },
 })

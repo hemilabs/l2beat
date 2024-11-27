@@ -18,7 +18,7 @@ export const grvt: Layer2 = upcomingL2({
       explorers: [],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/grvt_io',
+        'https://x.com/grvt_io',
         'https://discord.gg/3jsVPwaGeB',
       ],
     },

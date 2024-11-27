@@ -78,7 +78,7 @@ export const reddioex: Layer2 = {
       explorers: ['https://explorer.reddio.com/'],
       repositories: ['https://github.com/reddio-com/starkex-contracts-source'],
       socialMedia: [
-        'https://twitter.com/reddio_com',
+        'https://x.com/reddio_com',
         'https://facebook.com/reddiocom',
         'https://linkedin.com/company/reddio',
         'https://discord.com/invite/SjNAJ4qkK3',

@@ -20,7 +20,7 @@ export const stealthchain: Layer2 = upcomingL2({
       ],
       repositories: ['https://github.com/stealthpadxyz'],
       socialMedia: [
-        'https://twitter.com/stealthpadxyz',
+        'https://x.com/stealthpadxyz',
         'https://discord.gg/tWA5AhUS',
         'https://mirror.xyz/stealthpad.eth',
       ],

@@ -72,7 +72,7 @@ export const canvasconnect: Layer2 = {
       explorers: [],
       repositories: ['https://github.com/starkware-libs/starkex-contracts'],
       socialMedia: [
-        'https://twitter.com/canvas_defi',
+        'https://x.com/canvas_defi',
         'https://canvasdefi.medium.com/',
         'https://linkedin.com/company/canvasblockchaingroup',
         'https://canvas.co/content',

@@ -133,7 +133,7 @@ Henri Lieutaud from the Starknet Foundation [published](https://community.starkn
 
 ### **Starknet Provisions Update**
 
-Starknet Foundation [published an update](https://twitter.com/StarknetFndn/status/1783050200384250203) for the subcategories that were eligible for Round #1 of Starknet Provisions but had trouble claiming.
+Starknet Foundation [published an update](https://x.com/StarknetFndn/status/1783050200384250203) for the subcategories that were eligible for Round #1 of Starknet Provisions but had trouble claiming.
 
 These subcategories are:
 

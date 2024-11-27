@@ -26,7 +26,7 @@ export const ten: Layer2 = upcomingL2({
         'https://github.com/ten-protocol/sample-applications',
       ],
       socialMedia: [
-        'https://twitter.com/tenprotocol',
+        'https://x.com/tenprotocol',
         'https://discord.gg/yQfmKeNzNd',
         'https://t.me/tenprotocol',
         'https://medium.com/obscuro-labs',

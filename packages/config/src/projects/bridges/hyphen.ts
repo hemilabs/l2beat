@@ -23,7 +23,7 @@ export const hyphen: Bridge = {
       repositories: ['https://github.com/bcnmy/hyphen-sdk'],
       socialMedia: [
         'https://discord.gg/yuxXPqu82F',
-        'https://twitter.com/biconomy',
+        'https://x.com/biconomy',
         'https://t.me/biconomy',
         'https://medium.com/biconomy',
       ],

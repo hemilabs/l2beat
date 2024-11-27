@@ -158,7 +158,7 @@ You can find us to discuss all things Polygon at our [Polygon Office Hours](http
 
 ### **$STRK Airdrop**
 
-The Starknet Foundation [announced the $STRK airdrop](https://twitter.com/StarknetFndn/status/1759910415335600584) on February 20th and it will be available for eligible participants to claim until June 20th.
+The Starknet Foundation [announced the $STRK airdrop](https://x.com/StarknetFndn/status/1759910415335600584) on February 20th and it will be available for eligible participants to claim until June 20th.
 
 ### **Starknet v0.13.1: Fee Reduction**
 

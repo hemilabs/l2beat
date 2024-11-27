@@ -29,7 +29,7 @@ export const zora: Layer2 = opStackL2({
       ],
       repositories: ['https://github.com/ourzora/optimism'],
       socialMedia: [
-        'https://twitter.com/ourZORA',
+        'https://x.com/ourZORA',
         'https://instagram.com/our.zora',
         'https://zora.community',
       ],
@@ -51,14 +51,14 @@ export const zora: Layer2 = opStackL2({
   milestones: [
     {
       name: 'Zora starts using blobs',
-      link: 'https://twitter.com/Optimism/status/1768235284494450922',
+      link: 'https://x.com/Optimism/status/1768235284494450922',
       date: '2024-03-14T00:00:00Z',
       description: 'Zora starts publishing data to blobs.',
       type: 'general',
     },
     {
       name: 'Zora Network Launch',
-      link: 'https://twitter.com/ourZORA/status/1671602234994622464',
+      link: 'https://x.com/ourZORA/status/1671602234994622464',
       date: '2023-06-21T00:00:00Z',
       description: 'Zora Network is live on mainnet.',
       type: 'general',

@@ -18,7 +18,7 @@ export const frame: Layer2 = upcomingL2({
       explorers: ['https://explorer.testnet.frame.xyz/'],
       repositories: ['https://github.com/frame-network'],
       socialMedia: [
-        'https://twitter.com/frame_xyz',
+        'https://x.com/frame_xyz',
         'https://discord.gg/framexyz',
       ],
     },

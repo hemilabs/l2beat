@@ -15,7 +15,7 @@ export const davos: Bridge = {
       documentation: ['https://docs.davos.xyz/'],
       repositories: ['https://github.com/davos-money/davos-contracts'],
       socialMedia: [
-        'https://twitter.com/Davos_Protocol',
+        'https://x.com/Davos_Protocol',
         'https://t.me/davosprotocol',
         'https://discord.gg/davos-protocol-978896437612019722',
         'https://medium.com/@Davos_Protocol',

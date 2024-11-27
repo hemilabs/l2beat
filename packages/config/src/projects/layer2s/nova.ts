@@ -124,7 +124,7 @@ export const nova: Layer2 = orbitStackL2({
         'https://github.com/OffchainLabs/nitro',
       ],
       socialMedia: [
-        'https://twitter.com/arbitrum',
+        'https://x.com/arbitrum',
         'https://arbitrumfoundation.medium.com/',
         'https://discord.gg/Arbitrum',
       ],
@@ -374,7 +374,7 @@ export const nova: Layer2 = orbitStackL2({
   knowledgeNuggets: [
     {
       title: 'Data availability on Arbitrum Nova',
-      url: 'https://twitter.com/bkiepuszewski/status/1555180043525128200',
+      url: 'https://x.com/bkiepuszewski/status/1555180043525128200',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
     },
   ],

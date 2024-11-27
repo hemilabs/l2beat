@@ -31,7 +31,7 @@ export const immutablezkevm: Bridge = {
       documentation: ['https://docs.x.immutable.com/docs/zkEVM/overview'],
       explorers: [],
       repositories: [],
-      socialMedia: ['https://twitter.com/Immutable'],
+      socialMedia: ['https://x.com/Immutable'],
     },
   },
   config: {

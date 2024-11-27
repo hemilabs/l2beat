@@ -24,7 +24,7 @@ export const chainport: Bridge = {
     links: {
       websites: ['https://chainport.io/'],
       documentation: ['https://docs.chainport.io/'],
-      socialMedia: ['https://twitter.com/chain_port'],
+      socialMedia: ['https://x.com/chain_port'],
     },
   },
   config: {

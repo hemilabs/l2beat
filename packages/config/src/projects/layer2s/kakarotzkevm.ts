@@ -17,7 +17,7 @@ export const kakarotzkevm: Layer2 = upcomingL2({
       explorers: [],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/KakarotZkEvm',
+        'https://x.com/KakarotZkEvm',
         'https://t.me/KakarotZkEvm',
         'https://discord.gg/kakarotzkevm',
       ],

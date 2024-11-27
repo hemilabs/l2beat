@@ -26,7 +26,7 @@ export const edgeless: Layer2 = orbitStackL2({
       explorers: ['https://explorer.edgeless.network/'],
       repositories: ['https://github.com/edgelessNetwork'],
       socialMedia: [
-        'https://twitter.com/EdgelessNetwork',
+        'https://x.com/EdgelessNetwork',
         'https://discord.gg/edgeless',
         'https://paragraph.xyz/@edgeless',
         'https://t.me/+f8yhoOg-4cNhYWEx',

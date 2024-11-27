@@ -55,7 +55,7 @@ export const mantleDABridge = {
       apps: [],
       explorers: ['https://explorer.mantle.xyz/mantle-da'],
       socialMedia: [
-        'https://twitter.com/0xMantle',
+        'https://x.com/0xMantle',
         'https://t.me/mantlenetwork',
       ],
     },

@@ -21,7 +21,7 @@ export const opticsV1: Bridge = {
     links: {
       websites: ['https://old.optics.app/'],
       repositories: ['https://github.com/celo-org/optics-monorepo'],
-      socialMedia: ['https://twitter.com/CeloOrg'],
+      socialMedia: ['https://x.com/CeloOrg'],
     },
     description:
       'Optics is a general messaging bridge that uses optimistic verification to validate cross-chain bridging transactions.',

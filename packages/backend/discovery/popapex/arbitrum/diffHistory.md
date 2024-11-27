@@ -515,7 +515,7 @@ Generated with discovered.json: 0x9fe3796691c10ec5795e696f3f364bf5faed7778
 
 
 This update extends the sequencer-only window for Proof of Play Apex chain by 1000x to 1000d. (MaxTimeVariation.delayBlocks, maxTimeVariation.delaySeconds)
-Context: [Reorg on popapex](https://twitter.com/conduitxyz/status/1790065376975552549). No batches posted for the last ~35h, similar problem to Degen chain.
+Context: [Reorg on popapex](https://x.com/conduitxyz/status/1790065376975552549). No batches posted for the last ~35h, similar problem to Degen chain.
 
 ## Watched changes
 

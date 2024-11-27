@@ -29,7 +29,7 @@ export const gravity: Bridge = {
         'https://github.com/Gravity-Bridge/Gravity-Docs',
       ],
       socialMedia: [
-        'https://twitter.com/gravity_bridge',
+        'https://x.com/gravity_bridge',
         'https://discord.gg/d3DshmHpXA',
       ],
     },

@@ -958,7 +958,7 @@ export function zkStackL2(templateVars: ZkStackConfigCommon): Layer2 {
       ...(templateVars.knowledgeNuggets ?? []),
       {
         title: 'State diffs vs raw tx data',
-        url: 'https://twitter.com/krzKaczor/status/1641505354600046594',
+        url: 'https://x.com/krzKaczor/status/1641505354600046594',
         thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
       },
     ],

@@ -16,7 +16,7 @@ export const specular: Layer2 = upcomingL2({
       documentation: ['https://docs.specular.network/overview/welcome'],
       explorers: ['https://explorer.specular.network/'],
       repositories: ['https://github.com/SpecularL2/'],
-      socialMedia: ['https://twitter.com/SpecularL2'],
+      socialMedia: ['https://x.com/SpecularL2'],
     },
   },
 })

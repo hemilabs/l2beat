@@ -17,7 +17,7 @@ export const morph: Layer2 = upcomingL2({
       explorers: ['https://explorer-holesky.morphl2.io'],
       repositories: ['https://github.com/morph-l2'],
       socialMedia: [
-        'https://twitter.com/MorphL2',
+        'https://x.com/MorphL2',
         'https://t.me/MorphL2official',
         'https://medium.com/@morphlayer2',
         'https://discord.com/invite/L2Morph',

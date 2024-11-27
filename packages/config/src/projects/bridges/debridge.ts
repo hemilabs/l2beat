@@ -20,7 +20,7 @@ export const debridge: Bridge = {
       repositories: ['https://github.com/debridge-finance'],
       explorers: ['https://explorer.debridge.finance'],
       socialMedia: [
-        'https://twitter.com/deBridgeFinance',
+        'https://x.com/deBridgeFinance',
         'https://discord.gg/debridge',
         'https://blog.debridge.finance',
         'https://reddit.com/r/debridge/',

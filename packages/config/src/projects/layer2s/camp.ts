@@ -20,7 +20,7 @@ export const camp: Layer2 = upcomingL2({
       ],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/Camp_L2',
+        'https://x.com/Camp_L2',
         'https://discord.com/invite/GDQRjR2PrY',
       ],
     },

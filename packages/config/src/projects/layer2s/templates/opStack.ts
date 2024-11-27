@@ -352,7 +352,7 @@ export function opStackCommon(
       ...(templateVars.knowledgeNuggets ?? []),
       {
         title: 'How Optimism compresses data',
-        url: 'https://twitter.com/bkiepuszewski/status/1508740414492323840?s=20&t=vMgR4jW1ssap-A-MBsO4Jw',
+        url: 'https://x.com/bkiepuszewski/status/1508740414492323840?s=20&t=vMgR4jW1ssap-A-MBsO4Jw',
         thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
       },
       {

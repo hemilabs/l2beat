@@ -40,7 +40,7 @@ export const fuelv1: Layer2 = {
       ],
       socialMedia: [
         'https://discord.gg/xfpK4Pe',
-        'https://twitter.com/fuellabs_',
+        'https://x.com/fuellabs_',
         'https://linkedin.com/company/fuel-labs',
         'https://youtube.com/@fuelnetwork',
         'https://hey.xyz/u/fuelnetwork',
@@ -171,7 +171,7 @@ export const fuelv1: Layer2 = {
   milestones: [
     {
       name: 'Fuel v1 is live on Mainnet',
-      link: 'https://twitter.com/fuellabs_/status/1344707195250896899',
+      link: 'https://x.com/fuellabs_/status/1344707195250896899',
       date: '2020-12-31T00:00:00Z',
       description: 'First trustless Optimistic Rollup is live on Mainnet.',
       type: 'general',
@@ -180,7 +180,7 @@ export const fuelv1: Layer2 = {
   knowledgeNuggets: [
     {
       title: 'Fuel security stress test by L2BEAT team',
-      url: 'https://twitter.com/krzKaczor/status/1524753284434587649',
+      url: 'https://x.com/krzKaczor/status/1524753284434587649',
       thumbnail: NUGGETS.THUMBNAILS.FUEL_01,
     },
   ],

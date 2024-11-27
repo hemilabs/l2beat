@@ -82,7 +82,7 @@ export const xlayer: Layer2 = polygonCDKStack({
       documentation: ['https://okx.com/xlayer/docs'],
       explorers: ['https://okx.com/explorer/xlayer'],
       repositories: [],
-      socialMedia: ['https://twitter.com/XLayerOfficial'],
+      socialMedia: ['https://x.com/XLayerOfficial'],
     },
     activityDataSource: 'Blockchain RPC',
   },

@@ -18,7 +18,7 @@ export const myshell: Layer2 = upcomingL2({
       explorers: [],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/myshell_ai',
+        'https://x.com/myshell_ai',
         'https://discord.com/invite/myshell',
       ],
     },

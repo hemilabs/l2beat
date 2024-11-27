@@ -17,7 +17,7 @@ export const swell: Layer2 = upcomingL2({
       documentation: ['https://docs.swellnetwork.io/'],
       explorers: [],
       repositories: ['https://github.com/SwellNetwork'],
-      socialMedia: ['https://twitter.com/swellnetworkio'],
+      socialMedia: ['https://x.com/swellnetworkio'],
     },
   },
 })

@@ -21,7 +21,7 @@ export const teva: Layer3 = underReviewL3({
       explorers: [''],
       repositories: [''],
       socialMedia: [
-        'https://twitter.com/tevaera',
+        'https://x.com/tevaera',
         'https://discord.com/invite/tevaera',
         'https://tevaera.medium.com/',
       ],

@@ -23,7 +23,7 @@ export const orb3: Layer3 = upcomingL3({
       explorers: ['https://orb3scan.tech/'],
       repositories: ['https://github.com/orb3-protocol'],
       socialMedia: [
-        'https://twitter.com/Orb3Tech',
+        'https://x.com/Orb3Tech',
         'https://discord.gg/PmWGn2UmdJ',
         'https://t.me/orb3portal',
         'https://mirror.xyz/0xCC98fAeE2309c7424cFE5995741b96BE61c9253f',

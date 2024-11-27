@@ -131,7 +131,7 @@ export const apex: Layer2 = {
       explorers: [],
       repositories: ['https://github.com/ApeX-Protocol/core'],
       socialMedia: [
-        'https://twitter.com/OfficialApeXdex',
+        'https://x.com/OfficialApeXdex',
         'https://apexdex.medium.com/',
         'https://t.me/ApeXdex',
         'https://discord.com/invite/apexprotocol',
@@ -303,7 +303,7 @@ export const apex: Layer2 = {
     {
       name: 'ApeX Pro public beta launched',
       date: '2022-11-21T00:00:00Z',
-      link: 'https://twitter.com/officialapexdex/status/1564917523401052162?s=21&t=c-SqpS1PL2KOns-2K7myJA',
+      link: 'https://x.com/officialapexdex/status/1564917523401052162?s=21&t=c-SqpS1PL2KOns-2K7myJA',
       description:
         'ApeX Pro beta is launched, with incentives program for users.',
       type: 'general',
@@ -311,7 +311,7 @@ export const apex: Layer2 = {
     {
       name: 'ApeX Pro live on Mainnet',
       date: '2022-08-31T00:00:00Z',
-      link: 'https://twitter.com/officialapexdex/status/1594722304537288706?s=21&t=c-SqpS1PL2KOns-2K7myJA',
+      link: 'https://x.com/officialapexdex/status/1594722304537288706?s=21&t=c-SqpS1PL2KOns-2K7myJA',
       description:
         'ApeX Pro, a non-custodial decentralized exchange is now live on Mainnet.',
       type: 'general',

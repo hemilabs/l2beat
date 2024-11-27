@@ -18,7 +18,7 @@ export const playchain: Layer2 = upcomingL2({
       explorers: ['https://albireo-explorer.playfi.ai/'],
       repositories: ['https://github.com/playFi-Labs'],
       socialMedia: [
-        'https://twitter.com/PlayFiGaming',
+        'https://x.com/PlayFiGaming',
         'https://warpcast.com/playfi',
       ],
     },

@@ -32,22 +32,22 @@ const THUMBNAILS = {
 const STARKWARE: KnowledgeNugget[] = [
   {
     title: 'Understand StarkWare #1',
-    url: 'https://twitter.com/bkiepuszewski/status/1480473352213041152',
+    url: 'https://x.com/bkiepuszewski/status/1480473352213041152',
     thumbnail: THUMBNAILS.STARKWARE_01,
   },
   {
     title: 'Understand StarkWare #2',
-    url: 'https://twitter.com/bkiepuszewski/status/1480804584926949377',
+    url: 'https://x.com/bkiepuszewski/status/1480804584926949377',
     thumbnail: THUMBNAILS.STARKWARE_02,
   },
   {
     title: 'Understand StarkWare #3',
-    url: 'https://twitter.com/bkiepuszewski/status/1481173682219270146',
+    url: 'https://x.com/bkiepuszewski/status/1481173682219270146',
     thumbnail: THUMBNAILS.STARKWARE_03,
   },
   {
     title: 'Understand StarkWare #4',
-    url: 'https://twitter.com/bkiepuszewski/status/1481521079562784769',
+    url: 'https://x.com/bkiepuszewski/status/1481521079562784769',
     thumbnail: THUMBNAILS.STARKWARE_04,
   },
 ]

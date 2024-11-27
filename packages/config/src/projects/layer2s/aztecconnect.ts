@@ -34,7 +34,7 @@ export const aztecconnect: Layer2 = {
       explorers: ['https://aztec-connect-prod-explorer.aztec.network/'],
       repositories: ['https://github.com/AztecProtocol/aztec-connect'],
       socialMedia: [
-        'https://twitter.com/aztecnetwork',
+        'https://x.com/aztecnetwork',
         'https://medium.com/aztec-protocol',
         'https://t.me/aztecprotocol',
         'https://discord.gg/UDtJr9u',

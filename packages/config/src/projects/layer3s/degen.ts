@@ -26,7 +26,7 @@ export const degen: Layer3 = orbitStackL3({
       explorers: ['https://explorer.degen.tips/'],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/degentokenbase',
+        'https://x.com/degentokenbase',
         'https://warpcast.com/~/channel/degen',
       ],
     },

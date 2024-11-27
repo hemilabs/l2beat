@@ -19,7 +19,7 @@ export const anomaly: Layer3 = upcomingL3({
       documentation: ['https://docs.anomalygames.ai/'],
       explorers: [],
       repositories: [],
-      socialMedia: ['https://twitter.com/anomalygamesinc'],
+      socialMedia: ['https://x.com/anomalygamesinc'],
     },
   },
 })

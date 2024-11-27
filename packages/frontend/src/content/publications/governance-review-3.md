@@ -215,7 +215,7 @@ The [Snapshot vote](https://snapshot.org/#/dao.connext.eth/proposal/0xf327124efb
 
 ### **[RFC] The Rollup Ecosystem Education Partnership**
 
-In this RFC, [The Rollup](https://twitter.com/therollupco) is proposing to become an educational content partner to Connext to drive product awareness, further engagement, and support product vision. The Rollup is asking for 100,000 NEXT tokens for 6-month duration for the scope and deliverables described in the proposal.
+In this RFC, [The Rollup](https://x.com/therollupco) is proposing to become an educational content partner to Connext to drive product awareness, further engagement, and support product vision. The Rollup is asking for 100,000 NEXT tokens for 6-month duration for the scope and deliverables described in the proposal.
 
 **Discuss with L2BEAT**
 

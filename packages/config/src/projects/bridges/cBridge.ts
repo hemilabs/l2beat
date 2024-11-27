@@ -32,7 +32,7 @@ export const cBridge: Bridge = {
       socialMedia: [
         'https://discord.gg/uGx4fjQ',
         'https://t.me/celernetwork',
-        'https://twitter.com/CelerNetwork',
+        'https://x.com/CelerNetwork',
       ],
     },
   },
@@ -276,7 +276,7 @@ export const cBridge: Bridge = {
   knowledgeNuggets: [
     {
       title: 'How HTLC bridge works?',
-      url: 'https://twitter.com/bkiepuszewski/status/1437031523455229964',
+      url: 'https://x.com/bkiepuszewski/status/1437031523455229964',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
     },
     {

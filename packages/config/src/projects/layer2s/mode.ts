@@ -41,7 +41,7 @@ export const mode: Layer2 = opStackL2({
       explorers: ['https://modescan.io'],
       repositories: [],
       socialMedia: [
-        'https://twitter.com/modenetwork',
+        'https://x.com/modenetwork',
         'https://discord.gg/modenetworkofficial',
         'https://mode.mirror.xyz/',
         'https://t.me/ModeNetworkOfficial',
@@ -66,14 +66,14 @@ export const mode: Layer2 = opStackL2({
     },
     {
       name: 'Mode starts using blobs',
-      link: 'https://twitter.com/Optimism/status/1768235284494450922',
+      link: 'https://x.com/Optimism/status/1768235284494450922',
       date: '2024-03-14T00:00:00Z',
       description: 'Mode starts publishing data to blobs.',
       type: 'general',
     },
     {
       name: 'Mode Network Mainnet Launch',
-      link: 'https://twitter.com/modenetwork/status/1752760726907760933',
+      link: 'https://x.com/modenetwork/status/1752760726907760933',
       date: '2024-01-31T00:00:00Z',
       description: 'Mode Network is live on mainnet.',
       type: 'general',

@@ -44,7 +44,7 @@ export const xai: Layer3 = orbitStackL3({
       explorers: ['https://explorer.xai-chain.net/'],
       repositories: ['https://github.com/OffchainLabs/nitro'],
       socialMedia: [
-        'https://twitter.com/xai_games',
+        'https://x.com/xai_games',
         'https://t.me/XaiSentryNodes',
         'https://discord.gg/xaigames',
       ],

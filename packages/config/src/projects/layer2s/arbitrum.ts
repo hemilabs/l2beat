@@ -126,7 +126,7 @@ export const arbitrum: Layer2 = orbitStackL2({
         'https://github.com/OffchainLabs/arb-os',
       ],
       socialMedia: [
-        'https://twitter.com/arbitrum',
+        'https://x.com/arbitrum',
         'https://arbitrumfoundation.medium.com/',
         'https://discord.gg/Arbitrum',
         'https://youtube.com/@Arbitrum',
@@ -567,14 +567,14 @@ export const arbitrum: Layer2 = orbitStackL2({
     },
     {
       name: 'Arbitrum starts using blobs',
-      link: 'https://twitter.com/arbitrum/status/1768306107318178061',
+      link: 'https://x.com/arbitrum/status/1768306107318178061',
       date: '2024-03-14T00:00:00Z',
       description: 'Arbitrum starts publishing data to blobs.',
       type: 'general',
     },
     {
       name: 'ARB token airdrop',
-      link: 'https://twitter.com/arbitrum/status/1638888588443111425',
+      link: 'https://x.com/arbitrum/status/1638888588443111425',
       date: '2023-03-23T00:00:00Z',
       description: 'ARB token launched as a governance token for Arbitrum DAO.',
       type: 'general',
@@ -589,7 +589,7 @@ export const arbitrum: Layer2 = orbitStackL2({
     },
     {
       name: 'Odyssey paused',
-      link: 'https://twitter.com/arbitrum/status/1542159109511847937',
+      link: 'https://x.com/arbitrum/status/1542159109511847937',
       date: '2022-06-29T00:00:00Z',
       description:
         'Due of the heavy load being put on the chain, Odyssey program got paused.',
@@ -597,14 +597,14 @@ export const arbitrum: Layer2 = orbitStackL2({
     },
     {
       name: 'Odyssey started',
-      link: 'https://twitter.com/arbitrum/status/1539292126105706496',
+      link: 'https://x.com/arbitrum/status/1539292126105706496',
       date: '2022-06-21T00:00:00Z',
       description: 'Incentives program to onboard new users has started.',
       type: 'general',
     },
     {
       ...MILESTONES.MAINNET_OPEN,
-      link: 'https://twitter.com/arbitrum/status/1432817424752128008',
+      link: 'https://x.com/arbitrum/status/1432817424752128008',
       date: '2021-08-31T00:00:00Z',
       type: 'general',
     },
@@ -612,12 +612,12 @@ export const arbitrum: Layer2 = orbitStackL2({
   knowledgeNuggets: [
     {
       title: 'Arbitrum update boosts decentralization',
-      url: 'https://twitter.com/bkiepuszewski/status/1594754717330309120',
+      url: 'https://x.com/bkiepuszewski/status/1594754717330309120',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
     },
     {
       title: 'Arbitrum is down... or is it?',
-      url: 'https://twitter.com/bkiepuszewski/status/1438445910191710211',
+      url: 'https://x.com/bkiepuszewski/status/1438445910191710211',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_04,
     },
   ],

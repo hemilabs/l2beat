@@ -15,7 +15,7 @@ export const ankr: Bridge = {
       documentation: ['https://ankr.com/docs/bridge/overview/'],
       repositories: ['https://github.com/Ankr-network'],
       socialMedia: [
-        'https://twitter.com/ankrstaking',
+        'https://x.com/ankrstaking',
         'https://t.me/ankrstaking',
         'https://discord.com/invite/GGzJ6A6fEg',
         'https://medium.com/ankr-network',

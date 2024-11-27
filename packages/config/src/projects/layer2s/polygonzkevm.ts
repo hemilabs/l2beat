@@ -57,7 +57,7 @@ export const polygonzkevm: Layer2 = polygonCDKStack({
       ],
       repositories: ['https://github.com/0xPolygonHermez'],
       socialMedia: [
-        'https://twitter.com/0xPolygon',
+        'https://x.com/0xPolygon',
         'https://discord.gg/XvpHAxZ',
         'https://polygon.technology/blog-tags/polygon-zk',
       ],
@@ -305,7 +305,7 @@ export const polygonzkevm: Layer2 = polygonCDKStack({
   knowledgeNuggets: [
     {
       title: 'State diffs vs raw tx data',
-      url: 'https://twitter.com/krzKaczor/status/1641505354600046594',
+      url: 'https://x.com/krzKaczor/status/1641505354600046594',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
     },
   ],

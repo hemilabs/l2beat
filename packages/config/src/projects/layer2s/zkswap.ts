@@ -40,7 +40,7 @@ export const zkswap: Layer2 = {
       repositories: ['https://github.com/l2labs/zkswap-contracts'],
       socialMedia: [
         'https://medium.com/@zkswapofficial',
-        'https://twitter.com/ZKSwapOfficial',
+        'https://x.com/ZKSwapOfficial',
         'https://discord.gg/rpjpeq4Y47',
         'https://t.me/zkswapofficial',
         'https://reddit.com/r/ZKSwap_Official/',

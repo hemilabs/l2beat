@@ -34,7 +34,7 @@ export const publicgoodsnetwork: Layer2 = opStackL2({
         'https://github.com/supermodularxyz/pgn-monorepo',
         'https://github.com/supermodularxyz/pgn-docs',
       ],
-      socialMedia: ['https://twitter.com/pgn_eth'],
+      socialMedia: ['https://x.com/pgn_eth'],
     },
     activityDataSource: 'Blockchain RPC',
   },
@@ -50,7 +50,7 @@ export const publicgoodsnetwork: Layer2 = opStackL2({
   milestones: [
     {
       name: 'Public Goods Network Launch',
-      link: 'https://twitter.com/pgn_eth/status/1676972199423668228',
+      link: 'https://x.com/pgn_eth/status/1676972199423668228',
       date: '2023-07-06T00:00:00.00Z',
       description: 'The Public Goods Network is live on mainnet.',
       type: 'general',

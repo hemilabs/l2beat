@@ -25,7 +25,7 @@ export const stack: Layer3 = opStackL3({
       explorers: ['https://explorer.stack.so'],
       repositories: ['https://github.com/stack-so/protocol-interfaces'],
       socialMedia: [
-        'https://twitter.com/stackdotso',
+        'https://x.com/stackdotso',
         'https://t.me/+RVFamOmYBo42NzFh',
         'https://stack.mirror.xyz/',
       ],

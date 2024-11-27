@@ -25,7 +25,7 @@ export const portal: Bridge = {
       socialMedia: [
         'https://discord.gg/wormholecrypto',
         'https://t.me/wormholecrypto',
-        'https://twitter.com/wormholecrypto',
+        'https://x.com/wormholecrypto',
         'https://youtube.com/@wormholecrypto',
       ],
     },

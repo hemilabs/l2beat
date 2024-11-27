@@ -19,7 +19,7 @@ export const apechain: Layer3 = upcomingL3({
       documentation: ['https://docs.apechain.com/'],
       explorers: [],
       repositories: [],
-      socialMedia: ['https://twitter.com/apecoin'],
+      socialMedia: ['https://x.com/apecoin'],
     },
   },
 })

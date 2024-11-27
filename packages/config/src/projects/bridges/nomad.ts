@@ -30,7 +30,7 @@ export const nomad: Bridge = {
       websites: ['https://app.nomad.xyz/', 'https://docs.nomad.xyz/'],
       repositories: ['https://github.com/nomad-xyz/monorepo'],
       socialMedia: [
-        'https://twitter.com/nomadxyz_',
+        'https://x.com/nomadxyz_',
         'https://discord.gg/RurtmJApqm',
       ],
     },

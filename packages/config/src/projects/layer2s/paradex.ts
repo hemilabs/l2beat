@@ -86,7 +86,7 @@ export const paradex: Layer2 = {
       explorers: [],
       repositories: ['https://github.com/tradeparadex'],
       socialMedia: [
-        'https://twitter.com/tradeparadex',
+        'https://x.com/tradeparadex',
         'https://discord.com/invite/paradex',
       ],
     },
@@ -325,14 +325,14 @@ export const paradex: Layer2 = {
   milestones: [
     {
       name: 'Paradex starts using blobs',
-      link: 'https://twitter.com/tradeparadex/status/1768306190596153799',
+      link: 'https://x.com/tradeparadex/status/1768306190596153799',
       date: '2024-03-26T00:00:00Z',
       description: 'Paradex starts publishing data to blobs.',
       type: 'general',
     },
     {
       name: 'Open Beta Mainnet Launch',
-      link: 'https://twitter.com/tradeparadex',
+      link: 'https://x.com/tradeparadex',
       date: '2023-10-01T00:00:00.00Z',
       description: 'Paradex launches Open Beta on Mainnet.',
       type: 'general',

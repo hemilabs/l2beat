@@ -20,7 +20,7 @@ export const polygonmiden: Layer2 = upcomingL2({
       explorers: [],
       repositories: ['https://github.com/0xPolygonMiden'],
       socialMedia: [
-        'https://twitter.com/0xPolygonLabs',
+        'https://x.com/0xPolygonLabs',
         'https://discord.gg/0xPolygon',
         'https://t.me/polygonofficial',
       ],

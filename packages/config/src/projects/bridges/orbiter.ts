@@ -15,7 +15,7 @@ export const orbiter: Bridge = {
       documentation: ['https://docs.orbiter.finance/'],
       repositories: ['https://github.com/Orbiter-Finance'],
       socialMedia: [
-        'https://twitter.com/Orbiter_Finance',
+        'https://x.com/Orbiter_Finance',
         'https://orbiter-finance.medium.com/',
         'https://discord.gg/hJJvXP7C73',
         'https://reddit.com/r/OrbiterFinance/',

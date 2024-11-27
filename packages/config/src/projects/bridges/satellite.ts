@@ -28,7 +28,7 @@ export const satellite: Bridge = {
       explorers: ['https://axelarscan.io/'],
       repositories: ['https://github.com/axelarnetwork/axelar-examples'],
       socialMedia: [
-        'https://twitter.com/axelarnetwork',
+        'https://x.com/axelarnetwork',
         'https://discord.com/invite/aRZ3Ra6f7D',
         'https://linkedin.com/company/axelarnetwork/',
         'https://t.me/axelarcommunity',

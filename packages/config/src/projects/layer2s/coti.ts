@@ -19,7 +19,7 @@ export const coti: Layer2 = upcomingL2({
       explorers: [],
       repositories: ['https://github.com/coti-io'],
       socialMedia: [
-        'https://twitter.com/COTInetwork',
+        'https://x.com/COTInetwork',
         'https://medium.com/@cotinetwork',
         'https://t.me/COTInetwork',
         'https://discord.gg/9tq6CP6XrT',

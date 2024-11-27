@@ -19,7 +19,7 @@ export const fiefdom: Layer3 = upcomingL3({
       documentation: [],
       explorers: [],
       repositories: [],
-      socialMedia: ['https://twitter.com/fiefdomgg'],
+      socialMedia: ['https://x.com/fiefdomgg'],
     },
   },
 })

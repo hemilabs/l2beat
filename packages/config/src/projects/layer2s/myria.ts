@@ -79,7 +79,7 @@ export const myria: Layer2 = {
       repositories: ['https://github.com/starkware-libs/starkex-contracts'],
       socialMedia: [
         'https://medium.com/@myriagames',
-        'https://twitter.com/myria',
+        'https://x.com/myria',
         'https://discord.gg/myria',
         'https://t.me/myriaofficialgroup',
         'https://instagram.com/myriagames',

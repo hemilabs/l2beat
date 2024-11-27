@@ -78,7 +78,7 @@ export const sorare: Layer2 = {
       socialMedia: [
         'https://discord.gg/TSjtHaM',
         'https://reddit.com/r/Sorare/',
-        'https://twitter.com/Sorare',
+        'https://x.com/Sorare',
         'https://instagram.com/sorare_official/',
       ],
     },

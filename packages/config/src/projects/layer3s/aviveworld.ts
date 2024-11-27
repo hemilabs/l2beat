@@ -19,7 +19,7 @@ export const aviveworld: Layer3 = upcomingL3({
       documentation: [],
       explorers: [],
       repositories: [],
-      socialMedia: ['https://twitter.com/Avive_World'],
+      socialMedia: ['https://x.com/Avive_World'],
     },
   },
 })

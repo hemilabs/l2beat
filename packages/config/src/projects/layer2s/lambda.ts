@@ -28,7 +28,7 @@ export const lambda: Layer2 = opStackL2({
       explorers: ['https://scan.lambda.im/'],
       repositories: ['https://github.com/LambdaIM'],
       socialMedia: [
-        'https://twitter.com/Lambdaim',
+        'https://x.com/Lambdaim',
         'https://discord.gg/lambdastorage',
         'https://t.me/HelloLambda',
       ],

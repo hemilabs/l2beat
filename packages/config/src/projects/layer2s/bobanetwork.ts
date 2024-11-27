@@ -27,7 +27,7 @@ export const bobanetwork: Layer2 = opStackL2({
         'https://boba.network/',
         'https://boba.network/blog/',
         'https://enya.ai/about-us/',
-        'https://twitter.com/bobanetwork',
+        'https://x.com/bobanetwork',
         'https://t.me/bobanetwork',
         'https://discord.com/invite/Hvu3zpFwWd',
       ],
@@ -220,7 +220,7 @@ export const bobanetwork: Layer2 = opStackL2({
   knowledgeNuggets: [
     {
       title: 'What is Hybrid Compute?',
-      url: 'https://twitter.com/bkiepuszewski/status/1521849011594010624',
+      url: 'https://x.com/bkiepuszewski/status/1521849011594010624',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
     },
   ],

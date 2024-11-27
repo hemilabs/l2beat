@@ -17,7 +17,7 @@ export const dcamonster: Layer3 = upcomingL3({
         'https://github.com/dcamonster/cartesi-defi-modular-components/blob/master/readme.md',
       ],
       repositories: ['https://github.com/dcamonster'],
-      socialMedia: ['https://twitter.com/dca_monster'],
+      socialMedia: ['https://x.com/dca_monster'],
       websites: ['https://dca.monster'],
       apps: [],
       explorers: [],

@@ -18,7 +18,7 @@ export const world: Layer2 = upcomingL2({
       explorers: [],
       repositories: ['https://github.com/worldcoin'],
       socialMedia: [
-        'https://twitter.com/worldcoin',
+        'https://x.com/worldcoin',
         'https://discord.com/invite/worldcoin',
         'https://t.me/worldcoin',
         'https://linkedin.com/company/worldcoinproject/',

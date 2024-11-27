@@ -88,7 +88,7 @@ The end goal of the fellowships is to experiment with creating a streamlined pro
 
 ### **Arbitrum Foundation Grant Program Phase Three**
 
-Arbitrum Foundation [announced the beginning of the third phase of its grant program](https://twitter.com/arbitrum/status/1780650675245879512) which will run until the end of June and is welcoming applications from builders building on Arbitrum One, Nova, Orbit, or Stylus.
+Arbitrum Foundation [announced the beginning of the third phase of its grant program](https://x.com/arbitrum/status/1780650675245879512) which will run until the end of June and is welcoming applications from builders building on Arbitrum One, Nova, Orbit, or Stylus.
 
 ### **Launching an RFP Process for Innovative Grant Programs and Managers**
 
@@ -172,9 +172,9 @@ You can find us to discuss all the above and more during our [Polygon Office Hou
 
 ### **Starknet Funding Opportunities**
 
-Tomasz K. Stańczak of Starknet Foundation and Nethermind [announced](https://twitter.com/tkstanczak/status/1780542472218701890?s=46&t=q4Q232TdEyWIiMZPfDpI4A) that Starknet Foundation is setting up multiple grants initiatives for top builders (professionals and debutants) that will distribute anywhere between $5k to $1m depending on the scale of your projects and ambitions. More details will follow, but for the time being you can message Tomasz on Telegram.
+Tomasz K. Stańczak of Starknet Foundation and Nethermind [announced](https://x.com/tkstanczak/status/1780542472218701890?s=46&t=q4Q232TdEyWIiMZPfDpI4A) that Starknet Foundation is setting up multiple grants initiatives for top builders (professionals and debutants) that will distribute anywhere between $5k to $1m depending on the scale of your projects and ambitions. More details will follow, but for the time being you can message Tomasz on Telegram.
 
-Tomasz [also announced](https://twitter.com/tkstanczak/status/1780552158905086363) the creation of hacking/incubating spaces in London (and soon also Singapore and other APAC countries) where you can also get funding and mentoring.
+Tomasz [also announced](https://x.com/tkstanczak/status/1780552158905086363) the creation of hacking/incubating spaces in London (and soon also Singapore and other APAC countries) where you can also get funding and mentoring.
 
 ### **Second (Third, Fourth, …) User Airdrop - Making Starknet Happen**
 

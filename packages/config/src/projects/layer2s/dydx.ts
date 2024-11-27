@@ -108,7 +108,7 @@ export const dydx: Layer2 = {
       ],
       socialMedia: [
         'https://dydx.exchange/blog',
-        'https://twitter.com/dYdX',
+        'https://x.com/dYdX',
         'https://discord.gg/dydx',
         'https://youtube.com/c/dydxprotocol',
         'https://reddit.com/r/dydxprotocol/',
@@ -534,7 +534,7 @@ export const dydx: Layer2 = {
   knowledgeNuggets: [
     {
       title: 'How does escape hatch work?',
-      url: 'https://twitter.com/bkiepuszewski/status/1469201939049103360',
+      url: 'https://x.com/bkiepuszewski/status/1469201939049103360',
       thumbnail: NUGGETS.THUMBNAILS.L2BEAT_03,
     },
     ...NUGGETS.STARKWARE,

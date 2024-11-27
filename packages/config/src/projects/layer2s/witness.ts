@@ -83,7 +83,7 @@ export const witness: Layer2 = polygonCDKStack({
       explorers: ['https://witnesschain-blockscout.eu-north-2.gateway.fm/'],
       repositories: ['https://github.com/witnesschain-com'],
       socialMedia: [
-        'https://twitter.com/witnesschain',
+        'https://x.com/witnesschain',
         'https://discord.gg/HwnzU5CYDp',
         'https://docs.witnesschain.com/resources/technical-papers',
       ],
